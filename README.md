@@ -6,7 +6,7 @@ This repository contains implementations of software projects from the book
 In this repository, program project numbers are listed in the order 
 in which they appear in the 2013 Russian-language edition of the book.
 
-**If you find an error, you can make a pull request or issue.**
+❗️❗️❗️**If you find an error, you can make a pull request or issue.**
 
 ISBN 978-5-496-00740-5 (Russian)<br>
 ISBN 978-0672324536 (English)
