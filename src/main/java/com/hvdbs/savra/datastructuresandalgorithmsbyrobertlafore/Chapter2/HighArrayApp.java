@@ -2,7 +2,7 @@ package com.hvdbs.savra.datastructuresandalgorithmsbyrobertlafore.Chapter2;
 
 /*
 	Solution for Programming projects
-	2.1, 2.2, 2.3
+	2.1, 2.2, 2.3, 2.6
  */
 
 class HighArray {
@@ -78,6 +78,21 @@ class HighArray {
 
         return max;
     }
+
+    public long[] noDups() {
+        for (int i = 0; i < nElems; i++) {
+            for (int j = i + 1; j < nElems; j++) {
+                if (a[i] == a[j]) {
+                    for (int k = j; k < nElems - 1; k++) {
+                        a[k] = a[k + 1];
+                    }
+                    nElems--;
+                    j--;
+                }
+            }
+        }
+        return a;
+    }
 }
 
 public class HighArrayApp {
@@ -127,5 +142,27 @@ public class HighArrayApp {
         }
 
         sortedArray.display();
+
+        System.out.println("=====Tets noDups method=====");
+
+        arr.insert(123);
+        arr.insert(55);
+        arr.insert(22);
+        arr.insert(123);
+        arr.insert(88);
+        arr.insert(11);
+        arr.insert(123);
+        arr.insert(123);
+
+        System.out.println();
+        System.out.println("Source array");
+        arr.display();
+
+        System.out.println();
+        System.out.println();
+
+        System.out.println("Array after delete dups");
+        arr.noDups();
+        arr.display();
     }
 }
