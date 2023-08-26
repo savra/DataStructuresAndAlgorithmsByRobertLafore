@@ -18,7 +18,7 @@ ISBN 978-0672324536 (English)
     <a href = "https://github.com/savra/DataStructuresAndAlgorithmsByRobertLafore/tree/master/src/main/java/com/hvdbs/savra/datastructuresandalgorithmsbyrobertlafore/Chapter2/HighArrayApp.java">2.3</a>,
     <a href = "https://github.com/savra/DataStructuresAndAlgorithmsByRobertLafore/tree/master/src/main/java/com/hvdbs/savra/datastructuresandalgorithmsbyrobertlafore/Chapter2/OrderedApp.java">2.4</a>,
     <a href = "https://github.com/savra/DataStructuresAndAlgorithmsByRobertLafore/tree/master/src/main/java/com/hvdbs/savra/datastructuresandalgorithmsbyrobertlafore/Chapter2/OrderedApp.java">2.5</a>,
-    <a href = "https://github.com/savra/DataStructuresAndAlgorithmsByRobertLafore/tree/master/src/main/java/com/hvdbs/savra/datastructuresandalgorithmsbyrobertlafore/Chapter2/HighArrayApp.java">2.6</a>,
+    <a href = "https://github.com/savra/DataStructuresAndAlgorithmsByRobertLafore/tree/master/src/main/java/com/hvdbs/savra/datastructuresandalgorithmsbyrobertlafore/Chapter2/HighArrayApp.java">2.6</a>
 * <a href = "https://github.com/savra/DataStructuresAndAlgorithmsByRobertLafore/tree/master/src/main/java/com/hvdbs/savra/datastructuresandalgorithmsbyrobertlafore/Chapter3">Chapter 3: Simple Sort</a>
 * Chapter 4 
 * Chapter 5
